@@ -31,7 +31,7 @@ class Articles {
 }
 
 class TestHttp extends StatefulWidget {
-  final String url = 'http://91.201.54.66:5000/anton';
+  final String url = 'http://91.201.54.66:5000/arthur';
 
   @override
   State<StatefulWidget> createState() => TestHttpState();
